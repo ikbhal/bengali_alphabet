@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="bengali_alphabet"
+        android:label="Bengali Alphabet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

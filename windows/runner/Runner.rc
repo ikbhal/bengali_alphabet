@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bengali_alphabet" "\0"
+            VALUE "FileDescription", "Bengali Alphabet" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bengali_alphabet" "\0"
+            VALUE "InternalName", "Bengali Alphabet" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "bengali_alphabet.exe" "\0"
-            VALUE "ProductName", "bengali_alphabet" "\0"
+            VALUE "ProductName", "Bengali Alphabet" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
